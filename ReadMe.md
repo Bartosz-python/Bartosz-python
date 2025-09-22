@@ -1,6 +1,12 @@
 # 💫 About Me:
 
-## Hi there 👋 <br><br>🔭 I’m currently working on fun web scraping projects using Python and growing my skills in automation and testing. <br>🤝 I’m looking to collaborate on open-source projects, web tools, and anything that helps with QA or automation. <br>👐 I’m looking for help with writing cleaner JS code, advanced Python for testing, and best practices in automation frameworks. <br>🌱 I’m currently learning Python (for automation & testing), JavaScript, HTML, and CSS — and exploring React + Django to become a full-stack developer. <br>💬 Ask me about Python, beginner-friendly testing tips, or how I automate repetitive tasks or anything QA related. <br>🚀 Aspiring to become a Full-Stack Developer using React (FE) and Django (BE). <br>⚡ Fun fact: I once built a script to test my favorite websites automatically just for fun 🧪. <br>
+## Hi there 👋 
+🔭 I’m currently working on fun web scraping projects using Python and growing my skills in automation and testing. <br>
+🤝 I’m looking to collaborate on open-source projects, web tools, and anything that helps with QA or automation. <br>
+👐 I’m looking for help with writing cleaner JS code, advanced Python for testing, and best practices in automation frameworks. <br>
+🌱 I’m currently learning Python (for automation & testing), JavaScript, HTML, and CSS — and exploring React + Django to become a full-stack developer. <br>
+💬 Ask me about Python, beginner-friendly testing tips, or how I automate repetitive tasks or anything QA related. <br>
+🚀 Aspiring to become a Full-Stack Developer using React (FE) and Django (BE). <br>⚡ Fun fact: I once built a script to test my favorite websites automatically just for fun 🧪.
 
 ## 🌐 Socials:
 
