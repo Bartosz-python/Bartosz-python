@@ -1,4 +1,4 @@
-1# 💫 About Me:
+💫 About Me:
 
 ## Hi there 👋 
 🔭 I’m currently working on fun web scraping projects using Python and growing my skills in automation and testing. <br>
